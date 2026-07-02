@@ -1,2 +1,1 @@
-it's the basic starting code of my this chattin
-ok
+it's the basic starting code of my this chatti
